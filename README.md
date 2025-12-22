@@ -1,4 +1,4 @@
-# CAMPUS FELLOW - Your personal university knowledge assistant 
+# 💁🏻CAMPUS FELLOW - Your personal university knowledge assistant 
 
 # HOW IT WORKS
 1. Document Understanding
