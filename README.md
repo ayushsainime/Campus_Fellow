@@ -14,7 +14,6 @@ Instead of searching through chats, PDFs, and folders, LectureLens provides **co
 - 📄 Source visibility for transparency and verification  
 - ⚡ Ultra-fast responses using Groq-powered LLaMA-3  
 - 🖥️ Interactive Streamlit UI  
-- 🐳 Fully Dockerized and reproducible setup  
 
 <img width="1919" height="960" alt="Screenshot 2025-12-23 002417" src="https://github.com/user-attachments/assets/eab0ccb6-7265-433a-a5b7-8d977483956b" />
 
