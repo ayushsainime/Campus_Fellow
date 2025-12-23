@@ -21,21 +21,8 @@ Instead of searching through chats, PDFs, and folders, LectureLens provides **co
 ---
 
 ## 🧠 System Architecture
-Course PDFs
-↓
-Text Chunking
-↓
-Sentence Transformer Embeddings
-↓
-Qdrant Vector Database
-↓
-Context Retrieval
-↓
-Groq LLaMA-3
-↓
-FastAPI Backend
-↓
-Streamlit Frontend
+
+Course PDFs → Text Chunking → Sentence Transformer Embeddings → Qdrant Vector DB → Context Retrieval → Groq LLaMA-3 → FastAPI Backend → Streamlit Frontend
 
 ---
 
