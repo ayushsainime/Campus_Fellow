@@ -62,11 +62,7 @@ GROQ_API_KEY=your_groq_api_key_here
 # 🧩 Step 1: Add Your Course Data
 
 Place your academic PDFs inside the Data/ folder:
-Data/
- ├── syllabus.pdf
- ├── lecture_1.pdf
- ├── lecture_2.pdf
- ├── notes.pdf
+Data/course_material
 
 # 🐳 STEP 2: Pull and Run Qdrant Using Docker
 
